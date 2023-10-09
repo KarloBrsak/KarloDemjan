@@ -1,9 +1,3 @@
-Lorem ipsum dolor sit amet, consectetur adipiscing ellit
+lorem ipsum dolor sit amet, consectetur adipiscing ellit
 sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut alliquip ex ea commodo consequat.
-
-
-
-duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum doloreeu fugiat nulla pariatur. excepteur sint occaecat
-cupidadat non proident, sunt in culpa qui officia deserunt mollit anim
